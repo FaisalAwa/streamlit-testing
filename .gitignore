@@ -4,5 +4,3 @@
 # Ignore venv folder
 venv/
 
-# Ignore config.py to prevent sensitive information from being committed
-modules/config.py
